@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "nombre": "Acelga organica",
+        "precio": 1500,
+        "imagen": "./img/img1Acelga.jfif"
+    },
+    {
+        "id": "2",
+        "nombre": "Espinaca organica",
+        "precio":  2000,
+        "imagen": "./img/img2Espinaca.jfif"
+    },
+    {
+        "id": "3",
+        "nombre": "Tomate redondo",
+        "precio": 700,
+        "imagen": "./img/img3Tomate.jfif"
+    },
+    {
+        "id": "4",
+        "nombre": "Tomate Cherry",
+        "precio": 2000,
+        "imagen": "./img/img4TomateCherry.jfif"
+    },
+    {
+        "id": "5",
+        "nombre": "Kiwi",
+        "precio": 1200,
+        "imagen": "./img/img5Kiwi.jfif"
+    },
+    {
+        "id": "6",
+        "nombre": "Mazana",
+        "precio": 1200,
+        "imagen": "./img/img6Manzana.jfif"
+    },
+    {
+        "id": "7",
+        "nombre": "Banana",
+        "precio": 1000,
+        "imagen": "./img/img7Banana.jfif"
+    },
+    {
+        "id": "8",
+        "nombre": "Zapallo",
+        "precio": 1800,
+        "imagen": "./img/img8zapallo.jfif"
+    }
+]
